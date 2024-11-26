@@ -1,20 +1,20 @@
-👋 Hi, I’m CyberWarden
+# 👋 Hi, I’m **CyberWarden**  
 
-I'm a cybersecurity expert specializing in Python tools, Telegram bot development, and API integrations. I’m passionate about creating efficient solutions and automating tasks to solve real-world problems.
+I’m a cybersecurity expert working on **Python tools**, **Telegram bots**, and **API integrations**. My focus is on building efficient, secure, and scalable solutions.  
 
-🚀 What I Do
+## 🚀 **What I Do**  
+- Develop feature-rich **Telegram bots** for automation and utility.  
+- Build secure and efficient **API-based tools**.  
+- Work on **cybersecurity solutions** to enhance security frameworks.  
 
-Build powerful Telegram bots for automation and utility.
-Develop secure and efficient API-based tools.
-Explore and enhance cybersecurity solutions.
-🔧 Technologies I Use
+## 🔧 **Technologies I Use**  
+- **Languages:** Python, Bash  
+- **Databases:** MongoDB  
+- **Tools:** Docker, Git, FFmpeg  
 
-Languages: Python, Bash
-Tools: MongoDB, Docker, Git
-🌱 Currently Learning
+## 🌱 **Currently Learning**  
+- Advanced **API integrations**  
+- Improving **workflow automation**  
 
-Advanced API integrations
-Optimizing automation workflows
-💬 Let’s Connect
-
-Feel free to reach out if you’d like to collaborate or discuss projects!
+## 💬 **Let’s Connect**  
+I’m open to collaborations and discussions on Python, bots, and APIs. Let’s build something amazing together!  
